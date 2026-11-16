@@ -25,7 +25,7 @@ I work mostly with React, Node.js and MongoDB, and have about 3 years of experie
 
 | Project | About | Stack |
 | --- | --- | --- |
-| Job-Tracker (private, in progress) | Job search tracker that collects listings from job boards, scores fit with AI, and manages applications and outreach | React, Node.js, Express, MongoDB, Gemini API |
+| [Job-Tracker](https://github.com/Sangram-Dey/JOB-Tracker) | Job search tracker that collects listings from job boards, scores fit with AI, and manages applications and outreach | React, Node.js, Express, MongoDB, Gemini API |
 | [Blogging-Platform](https://github.com/Sangram-Dey/Blogging-Platform) | Blog platform with JWT auth, role-based access, posts and comments | React, Redux, Node.js, Express, MongoDB |
 | [WebPerf-Diagnostics](https://github.com/Sangram-Dey/WebPerf-Diagnostics) | Single-page web performance diagnostics interface | TypeScript, Vite |
 | [Portfolio](https://github.com/Sangram-Dey/Portfolio) | My personal site ([live](https://sangram-dey.github.io/Portfolio/)) | React, TypeScript, Vite |
